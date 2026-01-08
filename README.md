@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=varunanand2009&color=blue)
+
 # 👋 Hi, I'm Varun Anand
 
 🚀 Linux Admin | DevOps | Cloud Infrastructure Engineer  
@@ -23,13 +25,22 @@
 
 ---
 
+### 🏆 Achievements
+- Received client appreciation for implementing comprehensive Linux security hardening and supporting regular security audits.
+- Successfully performed in-place OS upgrades on 400+ production servers with minimal downtime  
+  (SUSE Linux Enterprise 12 → 15, RHEL 7.x → 8.x/9.x on Azure Cloud).
+- Maintained and documented critical system changes for ICOFR / SOX-compliant Linux servers.
+- Implemented Azure Monitor Agent for on-premises Linux servers to enable centralized monitoring and alerting.
+- Migrated Linux workloads from AWS to Azure Cloud with minimal service disruption.
+  
+
+  ---
+  
 ## 📂 Featured Repositories
 🔹 Linux Troubleshooting Scenarios  
-🔹 DevOps Hands-on Roadmap  
-🔹 HA Linux Cluster (Pacemaker + SAP HANA)  
+🔹 DevOps Hands-on Roadmap   
 🔹 Ansible Automation Labs  
 
-⬇️ Explore my repositories below
 
 ---
 

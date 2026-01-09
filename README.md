@@ -46,4 +46,4 @@
 
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/varun-anand-08148aaa
-- Email: varun8574650991@email.com
+- Email: varun8574650991@gmail.com
